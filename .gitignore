@@ -1,0 +1,7 @@
+# 原始数据不入库（公开数据集，见 README 数据来源）
+data/*.csv
+data/*.zip
+
+# Python
+__pycache__/
+*.pyc
